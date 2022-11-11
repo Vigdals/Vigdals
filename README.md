@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vigdals
-- 👀 I’m interested in security, automation, linux, python and so on
-- 🌱 I’m currently learning ASP.NET Core
+- 👀 I’m interested in security, webdev, automation, linux, python
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me [vigdal.dev](https://vigdal.dev/)
 
